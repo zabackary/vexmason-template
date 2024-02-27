@@ -1,0 +1,9 @@
+# the vex extension injects some values here which vary from computer to
+# computer
+.vscode/settings.json
+
+# some configuration that is meant to stay local
+.vscode/vexmason-local-config.json
+
+# the output directory of vexmason
+build/
