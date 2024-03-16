@@ -1,5 +1,5 @@
 {
-  "config_version": 1,
+  "config_version": "1.1",
   "computer_name": "your computer",
   "defines_overrides": {
     "__COMPETITION_MODE__": false

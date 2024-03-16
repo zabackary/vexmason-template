@@ -1,12 +1,12 @@
 {
-  "config_version": 1,
+  "config_version": "1.1",
   "name": "{{ defines/__AUTONOMOUS_ROUTE__ }} | vexmason template",
   "description": "A description. If ommited, vexmason will generate one for you.",
   "language": "python",
   "default_defines": {
-    "__AUTONOMOUS_ROUTE__": "route1",
+    "__AUTONOMOUS_ROUTE__": "No route",
     "__COMPETITION_MODE__": true,
-    "__WHEEL_TRAVEL_MM__": 320,
-    "__WHEEL_TRACK_WIDTH_MM__": 265
+    "__TURNING_SPEED_FACTOR__": 0.5,
+    "__USE_REAL_BOT__": true
   }
 }
